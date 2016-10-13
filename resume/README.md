@@ -11,7 +11,7 @@
 	Facebook, Twitter, Instagram<br/><br/>
 - <b>Opleidingen</b><br/>
 VTI Brugge - Grafische Multimediatechnologie<br/>
-Devine Howest<br/><br/>
+Howest - Devine (2013-2015)<br/><br/>
 - <b>Werkervaringen</b><br/>
 In progress<br/><br/>
 - <b>Cursussen en Workshops</b><br/>

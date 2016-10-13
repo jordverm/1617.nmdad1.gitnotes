@@ -12,23 +12,23 @@
 - <b>Opleidingen</b><br/>
 VTI Brugge - Grafische Multimediatechnologie<br/>
 Devine Howest<br/><br/>
-- Werkervaringen<br/>
+- <b>Werkervaringen</b><br/>
 In progress<br/><br/>
-- Cursussen en Workshops<br/>
+- <b>Cursussen en Workshops</b><br/>
 In progress<br/><br/>
 - <b>Nevenactiviteiten</b><br/>
 Scheidsrechter<br/>
 Voetbal<br/><br/>
 - <b>Computerkennis</b><br/>
 Adobe PS, AI, AE, PR & ID<br/>
-HTML, CSS, JAVASCRIPT & PHP<br/>
+HTML, CSS, JAVASCRIPT & PHP<br/><br/>
 
 - <b>Talenkennis</b><br/>
 Nederlands +++<br/>
 Frans +<br/>
-Engels +<br/>
+Engels +<br/><br/>
 
-- <b>Overige</b>
+- <b>Overige</b><br/>
 Scheidsrechter 1ste Klasse Amateur<br/>
 Voorzitter Koninklijke Vriendenkring Scheidsrechters Tielt & Omliggende <br/>
 PR-verantwoordelijke 'Word Scheidsrechter'<br/>

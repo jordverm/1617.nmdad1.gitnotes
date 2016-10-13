@@ -1,6 +1,5 @@
 
 <h1>Personalia</h1> 
-<hr width="100%">
 	Jordy Vermeire<br/>
 	't hof van Wingene 7, Wingene<br/>
 	03/02/1995<br/>
